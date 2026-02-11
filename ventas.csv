@@ -1,0 +1,17 @@
+# Reporte de Ventas
+
+PERIOD,February 2026
+TOTAL SALES,24752.56
+TOTAL TRANSACTIONS,10
+
+date,product,amount,customer
+2026-02-01,Monitor,400.28,Cliente 1
+2026-02-02,Laptop,3133.93,Cliente 2
+2026-02-03,Monitor,2118.43,Cliente 3
+2026-02-04,Laptop,1192.79,Cliente 4
+2026-02-05,Mouse,4109.7,Cliente 5
+2026-02-06,Webcam,1555.54,Cliente 6
+2026-02-07,Teclado,519.69,Cliente 7
+2026-02-08,Mouse,3435.09,Cliente 8
+2026-02-09,Monitor,4219.07,Cliente 9
+2026-02-10,Monitor,4068.04,Cliente 10

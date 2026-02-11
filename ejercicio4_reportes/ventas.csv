@@ -1,0 +1,17 @@
+# Reporte de Ventas
+
+PERIOD,February 2026
+TOTAL SALES,30001.4
+TOTAL TRANSACTIONS,10
+
+date,product,amount,customer
+2026-02-01,Teclado,4693.52,Cliente 1
+2026-02-02,Teclado,4610.57,Cliente 2
+2026-02-03,Mouse,2494.15,Cliente 3
+2026-02-04,Laptop,4351.12,Cliente 4
+2026-02-05,Mouse,2774.63,Cliente 5
+2026-02-06,Monitor,874.72,Cliente 6
+2026-02-07,Monitor,1635.95,Cliente 7
+2026-02-08,Webcam,3945.01,Cliente 8
+2026-02-09,Webcam,1124.64,Cliente 9
+2026-02-10,Teclado,3497.09,Cliente 10
